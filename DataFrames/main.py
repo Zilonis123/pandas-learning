@@ -7,5 +7,3 @@ data = {
 }
 
 analyzed = pd.DataFrame(data)
-
-print(analyzed.loc[0])
